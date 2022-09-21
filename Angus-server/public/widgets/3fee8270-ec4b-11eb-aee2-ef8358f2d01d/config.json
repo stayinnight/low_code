@@ -1,0 +1,24 @@
+{
+    "id": 3,
+    "type": "ARectangle",
+    "label": "矩形",
+    "propValue": "",
+    "icon": "icon-juxing",
+    "event": [],
+    "title": "icon-juxing",
+    "style": {
+        "width": 250,
+        "height": 130,
+        "borderRadius": 0,
+        "fontSize": 14,
+        "fontWeight": 500,
+        "borderWidth": 1,
+        "textAlign": "left",
+        "backgroundColor": "",
+        "borderStyle": "solid",
+        "borderColor": "#000F",
+        "color": "black",
+        "left": 0,
+        "top": 0
+    }
+}

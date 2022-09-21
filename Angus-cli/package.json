@@ -1,0 +1,27 @@
+{
+  "name": "angus-create",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "angus": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.6.1",
+    "ajv": "^8.6.2",
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "commander": "^8.0.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.1.2",
+    "ora": "^5.4.1",
+    "shelljs": "^0.8.4",
+    "uuid": "^8.3.2"
+  }
+}

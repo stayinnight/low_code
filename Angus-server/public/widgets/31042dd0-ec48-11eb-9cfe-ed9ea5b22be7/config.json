@@ -1,0 +1,23 @@
+{
+    "id": 3,
+    "type": "ARound",
+    "label": "圆形",
+    "propValue": "",
+    "icon": "icon-juxing",
+    "title": "",
+    "style": {
+        "width": 200,
+        "height": 200,
+        "borderRadius": 150,
+        "fontSize": 14,
+        "fontWeight": 500,
+        "borderWidth": 1,
+        "textAlign": "left",
+        "backgroundColor": "#4EB3F1",
+        "borderStyle": "solid",
+        "borderColor": "",
+        "color": "black",
+        "left": 0,
+        "top": 0
+    }
+}

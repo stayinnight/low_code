@@ -1,0 +1,24 @@
+{
+    "id": 2,
+    "type": "AButton",
+    "label": "按钮",
+    "propValue": "按钮",
+    "icon": "",
+    "event": [],
+    "title": "",
+    "style": {
+        "width": 80,
+        "height": 40,
+        "fontSize": 14,
+        "fontWeight": 500,
+        "borderRadius": 3,
+        "textAlign": "center",
+        "color": "white",
+        "borderWidth": 1,
+        "borderColor": "#CECECE",
+        "backgroundColor": "#08C2F8",
+        "borderStyle": "solid",
+        "left": 0,
+        "top": 0
+    }
+}

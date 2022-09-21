@@ -1,0 +1,30 @@
+{
+  "name": "angus-server",
+  "version": "1.0.0",
+  "description": "angus server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ejs": "^3.1.6",
+    "js-base64": "^3.6.1",
+    "jsonwebtoken": "^8.5.1",
+    "jszip": "^3.6.0",
+    "koa": "^2.13.1",
+    "koa-body": "^4.2.0",
+    "koa-router": "^10.0.0",
+    "koa-send": "^5.0.1",
+    "koa-static": "^5.0.0",
+    "koa-views": "^7.0.1",
+    "mongoose": "^5.12.9",
+    "node-uuid": "^1.4.8",
+    "shelljs": "^0.8.4",
+    "uuid": "^8.3.2"
+  }
+}

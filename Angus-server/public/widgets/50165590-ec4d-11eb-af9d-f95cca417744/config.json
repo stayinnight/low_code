@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "type": "AText",
+    "label": "文字",
+    "propValue": "文字",
+    "icon": "icon-wenzi",
+    "title": "",
+    "event": [],
+    "style": {
+        "width": 200,
+        "height": 43,
+        "fontSize": 14,
+        "fontWeight": 500,
+        "lineHeight": 3,
+        "backgroundColor": "",
+        "textAlign": "center",
+        "color": "black",
+        "left": 0,
+        "top": 0
+    }
+}
